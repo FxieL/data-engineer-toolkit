@@ -1,0 +1,4 @@
+review_id,customer_id,product_id,rating,review_text,review_date
+REV000006,C00014,P0018,4,Odio doloremque aliquam quidem provident dolores ex.,2026-07-08
+REV000007,C00023,P0006,5,Repellendus doloremque optio tempora sequi distinctio repellendus doloremque.,2026-07-08
+REV000008,C00020,P0003,2,Eum culpa possimus deserunt deserunt iure quod ex modi impedit quasi repudiandae nihil.,2026-07-08

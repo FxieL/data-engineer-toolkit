@@ -1,0 +1,34 @@
+customer_id,name,email,phone,city,join_date,segment
+C00001,Vera Nugroho,mala30@example.org,(015) 316-8818,Banda Aceh,2026-03-06,Regular
+C00002,"dr. Gaman Narpati, S.T.",nalarhalim@example.com,081 022 1694,Solok,2026-03-17,Regular
+C00003,"H. Kajen Laksmiwati, S.IP",yuniarade@example.net,+62 (023) 676-1874,Jambi,2025-03-17,Regular
+C00004,Hasna Lestari,citra11@example.com,+62-0841-788-2005,Palu,2025-08-25,Gold
+C00005,H. Respati Zulaika,kemba14@example.org,+62-232-951-1005,Bima,2025-06-30,Gold
+C00006,  Jasmin Nashiruddin  ,okta16@example.org,+62-36-491-1970,Bandung,2024-09-24,Platinum
+C00007,"Puti Vivi Narpati, M.Pd",yhabibi@example.com,+62-79-215-6661,Bandar Lampung,2026-02-26,Gold
+C00008,Salsabila Laksmiwati,klailasari@example.org,+62-0994-995-5536,Kotamobagu,2025-10-22,Regular
+C00009,  R.M. Cecep Nashiruddin  ,ibunsaptono@example.net,+62-94-445-1137,Pematangsiantar,2025-03-16,Silver
+C00010,"Kiandra Wahyudin, S.Gz",daniswarasaputra@example.org,(007) 591 0250,Kediri,2024-12-21,Regular
+C00011,"H. Marsito Firgantoro, M.TI.",vera70@example.com,+62 (026) 611 6372,Lhokseumawe,2024-07-07,Gold
+C00012,Bakijan Pratama,kani38@example.net,+62 (303) 821 6774,Depok,2024-09-26,Platinum
+C00013,Puti Ika Salahudin,dimassuryono@example.com,+62 (064) 228-1758,Surakarta,2026-06-04,Regular
+C00014,Prayogo Marbun,limarjanuar@example.com,+62-30-581-5366,Salatiga,2025-02-22,Platinum
+C00015,"  Cakrabirawa Saptono, S.Ked  ",dariminsuryatmi@example.net,+62 (0676) 746-2792,Yogyakarta,2025-09-25,Silver
+C00016,"Paris Wacana, M.Pd",yuliajailani@example.com,+62-946-959-5497,Bukittinggi,2025-06-16,Silver
+C00017,"Erik Wahyuni, S.Psi",mangunsongbakiadi@example.com,0825584247,Bima,2024-11-24,Platinum
+C00018,  Elma Budiyanto  ,zulaikajaiman@example.com,089 587 8349,Kotamobagu,2025-05-30,Platinum
+C00019,"Tgk. Uda Damanik, M.Ak",criyanti@example.net,+62 (548) 253-5415,Sukabumi,2025-06-28,Gold
+C00020,  drg. Tami Suryatmi  ,adriansyahpraba@example.com,+62-297-279-1585,Bitung,2026-05-16,Platinum
+C00021,"R. Syahrini Hasanah, S.Psi",warsita46@example.org,+62 (0373) 205 2644,Bitung,2026-06-01,Regular
+C00022,  Raden Siregar  ,kurnia98@example.net,+62-75-152-5692,Madiun,2025-09-09,Gold
+C00023,Dalima Maryadi,praba24@example.net,(020) 410 4569,Jambi,2025-11-21,Platinum
+C00024,"Hadi Mulyani, S.Ked",lsimbolon@example.net,+62 (529) 079-1006,Banjar,2025-08-28,Gold
+C00025,Ikhsan Mandasari,izulkarnain@example.org,+62-003-914-6224,Tidore Kepulauan,2024-07-07,Regular
+C00026,Luhung Hastuti,dinayolanda@example.org,+62 (17) 076 3918,Makassar,2024-09-30,Silver
+C00027,Dr. Puji Suryatmi,napitupulunugraha@example.com,+62-14-411-3502,Sorong,2026-07-05,Regular
+C00028,Putri Pradana,corneliawahyudin@example.net,0871522178,Cirebon,2026-01-04,Regular
+C00029,Jessica Napitupulu,asirwandauwais@example.net,(092) 685 4866,Tual,2025-03-25,Platinum
+C00030,"Ella Sudiati, M.Ak",hmarbun@example.net,(0591) 338 2613,Probolinggo,2026-01-24,Silver
+C00031,Dr. Cindy Hidayanto,jessicawibisono@example.org,+62 (025) 055 2862,Mojokerto,2025-12-28,Silver
+C00032,Cager Siregar,azaleapradana@example.org,+62-090-586-1356,Metro,2026-01-30,Platinum
+C00033,"Ina Farida, M.Kom.",lfirmansyah@example.com,088 422 2773,Lubuklinggau,2025-03-07,Regular

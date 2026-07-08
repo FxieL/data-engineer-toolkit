@@ -1,0 +1,3 @@
+ticket_id,customer_id,order_id,issue_type,status,created_at
+TIX00001,C00008,ORD000003,komplain_kualitas,open,2026-07-08 07:09:01
+TIX00002,C00009,ORD000004,keterlambatan,open,2026-07-08 07:09:01

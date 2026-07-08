@@ -1,0 +1,6 @@
+review_id,customer_id,product_id,rating,review_text,review_date
+REV000001,C00011,P0010,5,Sint numquam qui odio velit dolorum quis libero veritatis aliquam unde.,2026-07-08
+REV000002,C00002,P0004,1,Debitis eos iure cumque quam illum excepturi.,2026-07-08
+REV000003,C00022,P0010,3,Similique ipsum sequi sunt earum eveniet.,2026-07-08
+REV000004,C00012,P0018,3,Quasi in et consequatur nisi nulla id eius ipsa eveniet.,2026-07-08
+REV000005,C00010,P0025,4,Ad repellendus asperiores enim animi similique necessitatibus similique repudiandae quia cumque.,2026-07-08

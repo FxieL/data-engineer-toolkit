@@ -1,0 +1,3 @@
+ticket_id,customer_id,order_id,issue_type,status,created_at
+TIX00003,C00008,ORD000025,refund,resolved,2026-07-08 07:17:01
+TIX00005,C00009,ORD000048,keterlambatan,in_progress,2026-07-08 07:21:03

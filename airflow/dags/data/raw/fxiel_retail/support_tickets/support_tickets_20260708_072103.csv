@@ -1,0 +1,3 @@
+ticket_id,customer_id,order_id,issue_type,status,created_at
+TIX00004,C00005,ORD000041,produk_rusak,open,2026-07-08 07:21:03
+TIX00005,C00009,ORD000048,keterlambatan,open,2026-07-08 07:21:03

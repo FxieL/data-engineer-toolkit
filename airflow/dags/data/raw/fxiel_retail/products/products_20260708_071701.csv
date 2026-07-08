@@ -1,0 +1,29 @@
+product_id,product_name,category_id,unit_price
+P0001,Alat Tulis - Voluptatibus P0001,CAT001,290044
+P0002,Alat Tulis - Aperiam P0002,CAT001,-1754399
+P0003,Alat Tulis - Similique P0003,CAT001,1524467
+P0004,Alat Tulis - Earum P0004,CAT001,1922247
+P0005,Alat Tulis - Assumenda P0005,CAT001,745157
+P0006,Alat Tulis - Possimus P0006,CAT001,1298145
+P0007,Elektronik - Pariatur P0007,CAT002,665148
+P0008,Elektronik - Laboriosam P0008,CAT002,1334909
+P0009,Elektronik - Eveniet P0009,CAT002,1198949
+P0010,Elektronik - Ipsum P0010,CAT002,711595
+P0011,Elektronik - Doloribus P0011,CAT002,1442373
+P0012,Elektronik - Sed P0012,CAT002,1172847
+P0013,Perlengkapan Bayi - Inventore P0013,CAT003,1754788
+P0014,Perlengkapan Bayi - Nesciunt P0014,CAT003,1775141
+P0015,Perlengkapan Bayi - Eaque P0015,CAT003,996992
+P0016,Perlengkapan Bayi - In P0016,CAT003,1966957
+P0017,Perlengkapan Bayi - Sed P0017,CAT003,1504299
+P0018,Buku - Odio P0018,CAT004,753310
+P0019,Buku - Quis P0019,CAT004,1418045
+P0020,Buku - Numquam P0020,,1246800
+P0021,Kebutuhan Rumah - Dignissimos P0021,CAT005,1705357
+P0022,Kebutuhan Rumah - Ipsam P0022,CAT005,1382896
+P0023,Kebutuhan Rumah - Doloribus P0023,CAT005,742904
+P0024,Kebutuhan Rumah - Aliquid P0024,,335576
+P0025,Olahraga - Fugiat P0025,CAT006,892682
+P0026,Olahraga - Quos P0026,CAT006,1730407
+P0027,Olahraga - Vitae P0027,CAT006,331806
+P0028,Perlengkapan Bayi - Magnam P0028,CAT003,1710449
